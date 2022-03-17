@@ -1,0 +1,1 @@
+Drawing a house with gosu and supplemental file. The gosu_shapes2.rb file is a modified version of gosu_shapes.rb.
